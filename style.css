@@ -413,3 +413,7 @@ span{
     font-weight: 1000;
     margin-bottom: 10rem;
 }
+
+.service-info p{
+    font-size: 5rem;
+}
